@@ -5,7 +5,7 @@ This README file provides an overview of the HTML project Real Time Bus Tracker
 
 Real Time Bus Tracker
 Overview
-The Real Time Bus Tracker project is a  web application that displays the movement of a bus between MIT and Harvard campuses on a map. It uses Mapbox GL JS for rednering and animating the map. Once initaed by the user, the bus moves along the route between the two predetermined locations. 
+The Real Time Bus Tracker project is a  web application that displays the movement of a bus between MIT and Harvard campuses on a map. It uses Mapbox GL JS for rendering and animating the map. Once initiated by the user, the bus moves along the route between the two predetermined locations. 
 
 Files
 index.html: The main HTML file for this web application. 
